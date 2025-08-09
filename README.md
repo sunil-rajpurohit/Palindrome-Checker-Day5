@@ -68,9 +68,6 @@ This project is licensed under the MIT License. See the LICENSE file for
 details.
 
 👨‍💻 Created by [Sunil Rajpurohit](https://github.com/sunil-rajpurohit)\
-Follow on Linkedin[www.linkedin.com/in/sunil-rajpurohit]
+Follow on Linkedin[https://www.linkedin.com/in/sunil-rajpurohit]
 Part of the **#50DaysOfPython** challenge.
 ------------------------------------------------------------------------
-
-👨‍💻 Created by [Sunil Rajpurohit](https://github.com/sunil-rajpurohit)\
-Part of the **#50DaysOfPython** challenge.
